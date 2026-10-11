@@ -1,4 +1,4 @@
-# Tugas-UTS_Kelompok-3_Deep-Learning-A
+# Tugas-Klasifikasi_Kelompok-3_Deep-Learning-A
 
 ## Anggota Kelompok:
 
